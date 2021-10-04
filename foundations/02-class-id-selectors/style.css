@@ -1,0 +1,10 @@
+/* styles.css */
+
+
+#first_id {color: blue; font-size: 36px;}
+
+#second_id {background-color: lightgreen;font-size: 24px; font-weight: bold;}
+
+.odd {background-color: pink;font-family: 'Verdana', 'sans-serif';}
+
+.special_odd {font-size: 24px;}
