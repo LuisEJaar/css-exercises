@@ -29,6 +29,11 @@ img {
 .plants {
   display: flex;
   text-align: center;
+  justify-content: center;
   margin-top: 32px;
   gap: 52px;
+}
+
+.plant {
+  width: 200px;
 }
